@@ -55,4 +55,5 @@ Proxying-SSLProxying settings-add-输入域名和端口号-保存
 ![check](http://7xrgej.com1.z0.glb.clouddn.com/6.pic_hd.jpg)
 
 #4.编译打包任意一个ios的debug的app，并且给出 debug app的路径。编译打包任意一个android的debug的app，并且给出android的keystore的目录所在
-（占坑，待完成）
+## android打包
+![android key store](http://7xrgej.com1.z0.glb.clouddn.com/237E6F63-CC18-4CB9-9CB1-46F1CF67E5CC.jpg)
