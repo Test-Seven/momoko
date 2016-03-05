@@ -57,3 +57,13 @@ Proxying-SSLProxying settings-add-输入域名和端口号-保存
 #4.编译打包任意一个ios的debug的app，并且给出 debug app的路径。编译打包任意一个android的debug的app，并且给出android的keystore的目录所在
 ## android打包
 ![android key store](http://7xrgej.com1.z0.glb.clouddn.com/237E6F63-CC18-4CB9-9CB1-46F1CF67E5CC.jpg)
+
+>关于android studio初步的配置和gradle构建过程参考以下三篇文章
+
+>>[第一次使用Android Studio时你应该知道的一切配置](http://www.cnblogs.com/smyhvae/p/4390905.html)
+
+>>[第一次使用Android Studio时你应该知道的一切配置（二）：新建一个属于自己的工程并安装Genymotion模拟器](http://www.cnblogs.com/smyhvae/p/4392611.html)
+
+>>[第一次使用Android Studio时你应该知道的一切配置（三）：gradle项目构建](http://www.cnblogs.com/smyhvae/p/4456420.html)
+>>
+>>以上文章来自：生命壹号：http://www.cnblogs.com/smyhvae/
