@@ -1,1 +1,16 @@
 
+###2.aapt的命令查询权限
+命令如下：
+![](http://7xrgej.com1.z0.glb.clouddn.com/aapt9E2DE417-95D3-4BFE-8C8A-69462754EC04.jpg)
+获取的文件如下：
+![](http://7xrgej.com1.z0.glb.clouddn.com/aapt8AE30CC9-8295-4F12-B335-26BFA45363FA.jpg)
+###5.找到一个apk里面的db文件并打开
+将手机中的db文件上传到mac：
+![](http://7xrgej.com1.z0.glb.clouddn.com/app%E6%95%B0%E6%8D%AE%E5%BA%933EBD9826-997E-4257-AF3F-E1779B355959.jpg)
+用sqlite打开db文件：
+![](http://7xrgej.com1.z0.glb.clouddn.com/app%E6%95%B0%E6%8D%AE%E5%BA%93692DF9AC-F93E-4838-AE5F-38D4BD244FC2.jpg)
+![]()
+
+###6.mac iOS github 上去找monkey.js，去instruments中运行
+
+###7.安装下idevicestaller，获取ios日志
