@@ -29,3 +29,19 @@
 此时，当前目录中生成了features的文件，进入查看目录结构：
 ![](http://7xrgej.com1.z0.glb.clouddn.com/%E6%B7%98%E5%AE%9D%E9%95%9C%E5%83%8FEC9EE846-25DD-463E-BE16-DD8977C4A0CD.jpg)
 
+尝试运行公司的apk文件，运行命令如下：
+
+    calabash-android run /Users/liteng/炫一下科技/秒拍/634/last_miaopai.apk 
+运行结果如下：
+![](http://7xrgej.com1.z0.glb.clouddn.com/calabash-androidresign.jpg)
+于是对apk进行重新签名，运行之后没有任何反馈则表明运行成功
+再次尝试用calabash-android运行last_miaopao.apk文件，结果如下：
+![](http://7xrgej.com1.z0.glb.clouddn.com/calabash-androidcucumber%20--init.jpg)
+运行如下命令：
+
+    cucumber --init
+运行结果如下：
+![](http://7xrgej.com1.z0.glb.clouddn.com/calabash-android--init%20success.jpg)
+再次尝试用calabash-android运行last_miaopao.apk文件，结果如下：
+![](http://7xrgej.com1.z0.glb.clouddn.com/calabash-androidrun%20success.jpg)
+因为没有写用例，所以只是跑通了，下一步目标：写用例进行运行测试
